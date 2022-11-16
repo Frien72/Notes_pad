@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes">
+        <item>Заметка1</item>
+        <item>Заметка1</item>
+    </string-array>
+
+    <string-array name="note_text">
+        <item>Привет, это первая заметка</item>
+        <item>А это вторая</item>
+    </string-array>
+
+    <string-array name="note_date">
+        <item>01.01.01</item>
+        <item>02.02.02</item>
+    </string-array>
+</resources>
